@@ -1,4 +1,8 @@
 package View;
 
-public class Login {
+import javax.swing.*;
+
+public class Login extends JFrame {
+
+    private JPanel contentPanel;
 }
